@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(186, 138, 230);
+}
+
+.info {
+    background-color: rgb(245, 120, 245);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+h3{
+    background-color: rgb(141, 64, 212);
+}
