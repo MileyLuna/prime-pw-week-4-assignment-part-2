@@ -7,6 +7,9 @@ header {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.info h2{
+    color: rgb(126, 10, 234);
+}
 img{
     width: 600px;
     height: 400px;
@@ -14,4 +17,5 @@ img{
 
 h3{
     background-color: rgb(141, 64, 212);
+    color: blue;
 }
